@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋 I'm Antara Aditya
 
-<!--
-**tumpa15/tumpa15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Quality Assurance Engineer | Manual Testing | Automation Testing | API Testing**
 
-Here are some ideas to get you started:
+📧 ![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white) tumpa15.946@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [Connect](https://www.linkedin.com/in/antara-aditya-95b36a234/)
+
+---
+
+## 🧑‍💻 About Me
+
+**SQA Engineer** focused on reliable, maintainable, and testable software.
+
+- 🧪 Manual Testing
+- 🔗 API Testing (Postman, SQL)
+- 🌐 Web UI Automation (Playwright, Selenium)
+- 📋 Agile QA Workflows (Jira, Git)
+
+CSE graduate with strong analytical and problem-solving skills, applying technical rigor to Software Quality Assurance.
+
+---
+
+## 🚀 Projects
+
+### 🧪 Manual Testing
+Manual test cases for XYZ bank, API & database modules.
+📄 [View Project](https://github.com/tumpa15/manual-testing-projects)
+
+### ⚙️ Web & API Automation Testing
+Web UI & API automation using Playwright, Postman, Newman.
+📄 [View Project](https://github.com/tumpa15/QA-Automation-Project-Final-)
+
+### 🔗 EverShop API Automation
+API automation testing using Postman & Newman.
+📄 [View Project](https://github.com/tumpa15/Evershop-API-Automation)
+
+---
+
+⭐️ From [Antara Aditya](https://github.com/tumpa15)
