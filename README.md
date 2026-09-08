@@ -24,12 +24,16 @@ CSE graduate with strong analytical and problem-solving skills, applying technic
 ## 🚀 Projects
 
 ### 🧪 Manual Testing
-Manual test cases for XYZ bank, API & database modules.
+Executed 22 test cases, reported 3 defects for XYZ Bank, API & database modules.
 📄 [View Project](https://github.com/tumpa15/manual-testing-projects)
 
+📊 [Complete Testing Documentation](https://docs.google.com/spreadsheets/d/1pQvsmk4LujM5bfRvfsxA0948wxhEu3LS-GWS_qs4PI0/edit?usp=sharing)
+
 ### ⚙️ Web & API Automation Testing
-Web UI & API automation using Playwright, Postman, Newman.
+Web UI & API automation using Playwright, Postman, Newman covering functional UI workflows, API validation, positive and negative test scenarios, assertions, and automated test execution.
 📄 [View Project](https://github.com/tumpa15/QA-Automation-Project-Final-)
+
+📚 [Documentation](https://drive.google.com/drive/folders/1w8vG0sZ-OjW_m4ZRPOHcDpvqeBQe1S9F?usp=sharing)
 
 ### 🔗 EverShop API Automation
 API automation testing using Postman & Newman.
