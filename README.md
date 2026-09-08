@@ -33,7 +33,7 @@ Executed 22 test cases, reported 3 defects for XYZ Bank, API & database modules.
 Web UI & API automation using Playwright, Postman, Newman covering functional UI workflows, API validation, positive and negative test scenarios, assertions, and automated test execution.
 📄 [View Project](https://github.com/tumpa15/QA-Automation-Project-Final-)
 
-📚 [Documentation](https://drive.google.com/drive/folders/1w8vG0sZ-OjW_m4ZRPOHcDpvqeBQe1S9F?usp=sharing)
+📚 [Evidence](https://drive.google.com/drive/folders/1w8vG0sZ-OjW_m4ZRPOHcDpvqeBQe1S9F?usp=sharing)
 
 ### 🔗 EverShop API Automation
 API automation testing using Postman & Newman.
